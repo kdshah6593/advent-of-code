@@ -9,7 +9,7 @@ All the solutions are solved in Javascript.
 
 #### Completed: 01/25 (4%)
 
-- [x] [Day 1](2023/day1/)
+- :heavy_check_mark: [Day 1](2023/day1/)
 - [Day 2](2023/day2/)
 - [Day 3](2023/day3/)
 - [Day 4](2023/day4/)
